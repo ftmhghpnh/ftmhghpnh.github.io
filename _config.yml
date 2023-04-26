@@ -22,17 +22,6 @@ about: "about about about"
 
 email: ftm.haghpanah@gmail.com
 
-projects:
-  sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: true
-    projects:
-    # - repo-name
 
 social_media:
   # behance: your_username
@@ -54,6 +43,22 @@ social_media:
   
 work:
   - 
+publications:
+  -
+  
+projects:
+  sort_by: pushed
+  # sort_by options:
+  #   - pushed
+  #   - stars
+  limit: 9
+  exclude:
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
+    
+    
 topics:
   - name: CSS
     web_url: https://github.com/topics/css
