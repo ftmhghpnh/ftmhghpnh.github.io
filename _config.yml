@@ -16,12 +16,13 @@ defaults:
     values:
       layout: "post"
 
-bio: "blah blah blah"
+bio: "I enjoy reading, growing various plants, listening to classical/post-rock music and podcasts. I also love playing Violin.
+"
 
-about: "about about about"
+about: "I have completed my PhD degree in Software Engineering at UC Irvine, under the supervision of <a href=\"https://www.ics.uci.edu/~malek/\">Dr. Sam Malek</a> and <a href=\"https://jgarcia.ics.uci.edu\">Dr. Joshua Garcia</a>. During my PhD studies, I researched software engineering with a focus on software analysis and testing as well as machine learning for automated software engineering. 
+I found my true passion in utilizing machine learning and NLP techniques to improve developer productivity and automate software engineering tasks. I joined Meta as a Research Scientist working in the <a href=\"https://research.facebook.com/teams/probability/\">Probability</a> team applying machine learning across the stack to improve efficiency for engineers, data scientists, and systems."
 
-email: ftm.haghpanah@gmail.com
-
+email: negar.qorbani@gmail.com
 
 social_media:
   # behance: your_username
@@ -30,42 +31,171 @@ social_media:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  linkedin: fateme-sadat-haghpanah-b2b59a90
+  scholar: E3yGWDsAAAAJ
+  linkedin: negar-ghorbani-13625251
+  github: negarq
   # mastodon: your_username
-  # medium: your_username
-  # stackoverflow: your_user_id
+  # medium: noidsirius
+  # stackoverflow: 2681272/noidsirius
   # telegram: your_username
-  # twitter: your_username
+  twitter: negar_ghorbani
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-  
+
 work:
-  - 
-publications:
-  -
-  
+  - company: "Meta, Inc."
+    company_url: "https://research.facebook.com/teams/probability/"
+    role: "Research Scientist"
+    start: "September 2022"
+    end: "Present"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Conducting research in the application of machine learning and natural language processing techniaues to improve the performance of compilers as part of the Probability team</li>
+    </ul>"
+  - company: "University of California, Irvine"
+    company_url: "http://seal.ics.uci.edu/"
+    role: "Graduate Research Assistant"
+    start: "September 2016"
+    end: "August 2022"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Conducting research in the areas of Software Engineering, Program Analysis, Software Testing, and Mobile Apps Security Under supervision of Dr. Sam Malek and Dr. Joshua Garcia </li>
+    </ul>"
+  - company: "Microsoft Research, Developer Division (DevDiv) Data & AI"
+    company_url: "https://www.microsoft.com/en-us/research/group/devdiv-dataai/"
+    role: "Applied Scientist Intern"
+    start: "March 2021"
+    end: "September 2021"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Conducting research in the areas of Machine Learning for Automated Software Engineering </li>
+    </ul>"
+  - company: "Fujitsu Laboratories of America, Sunnyvale, CA"
+    company_url: "https://www.fujitsu.com/us/about/businesspolicy/tech/rd/"
+    role: "Software Engineering Research Intern"
+    start: "June 2020"
+    end: "September 2020"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Mining and fixing software bugs using crowd intelligence and unsupervised machine learning </li>
+    </ul>"
+  - company: "Morgan Stanley, New York, NY"
+    company_url: "https://www.morganstanley.com"
+    role: "Software Engineering Intern"
+    start: "June 2019"
+    end: "September 2019"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Designing and developing dynamic and static optimization methods in a framework for distributed and parallelized graph based calculations in Scala. </li>
+    </ul>"
+  - company: "Institute for Studies in Theoretical Physics and Mathematics (IPM), Tehran, Iran"
+    company_url: ""
+    role: "Research Assistant"
+    start: "June 2015"
+    end: "July 2016"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Modeling and Evaluation of Service Composition in Commercial Multi-Clouds using Timed Colored Petri Nets. </li>
+    </ul>"
+  - company: "Pishtazan Andishe Pouya, Tehran, Iran"
+    company_url: ""
+    role: "Software Engineering Intern"
+    start: "January 2016"
+    end: "July 2016"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Design and analysis of models for software information systems and web applications. </li>
+    </ul>"
+  - company: "VADA Future Communications,Tehran, Iran"
+    company_url: ""
+    role: "Software Developer"
+    start: "January 2014"
+    end: "December 2014"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Designed, developed, and maintained mobile and web applications. </li>
+    </ul>"
+
+
+publication:
+  - name: "Program Merge Conflict Resolution via Neural Transformers"
+    authors: "Alexey Svyatkovskiy, Sarah Fakhoury, <u>Negar Ghorbani</u>, Todd Mytkowicz, Elizabeth Dinella, Christian Bird, Jinu Jang, Neel Sundaresan, and Shuvendu K. Lahiri"
+    conference: "ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022"
+    pdf: "https://dl.acm.org/doi/10.1145/3540250.3549163"
+  - name: "DeltaDroid: Dynamic Delivery Testing in Android"
+    authors: "<u>Negar Ghorbani</u>, Reyhaneh Jabbarvand, Navid Salehnamadi, Joshua Garcia, and Sam Malek"
+    conference: "ACM Trans. on Software Engineering and Methodology (TOSEM), July 2022"
+    pdf: "https://dl.acm.org/doi/10.1145/3563213"
+  - name: "Forecasting Architectural Decay from Evolutionary History"
+    authors: "Joshua Garcia, Ehsan Kouroshfar, <u>Negar Ghorbani</u>, and Sam Malek"
+    conference: "IEEE Transactions on Software Engineering, 2021"
+    pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357984"
+  - name: "Flair: Efficient Analysis of Android Inter-Component Vulnerabilities in Response to Incremental Changes"
+    authors: "Hamid Bagheri, Jianghao Wang, Jarod Aerts, <u>Negar Ghorbani</u>, and Sam Malek"
+    conference: "Empirical Software Engineering (EMSE), 2021"
+  - name: "Detection and repair of architectural inconsistencies in Java"
+    authors: "<u>Negar Ghorbani</u>, Joshua Garcia, Sam Malek"
+    conference: "<strong>ICSE 2019</strong>, IEEE/ACM 41st International Conference on Software Engineering, Montreal, QC, Canada, May 2019, 21% acceptance rate"
+    repo: "https://github.com/seal-hub/darcy-artifact"
+    pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8812079"
+    html_url: "https://www.ics.uci.edu/~seal/projects/darcy/index.html"
+  - name: "A temporal permission analysis and enforcement framework for android"
+    authors: "Alireza Sadeghi, Reyhaneh Jabbarvand, <u>Negar Ghorbani</u>, Hamid Bagheri, Sam Malek"
+    conference: "<strong>ICSE 2018</strong>, IEEE/ACM 40th International Conference on Software Engineering, Gothenburg, Sweden, May 2018, 21% acceptance rate"
+    pdf: "https://dl.acm.org/doi/pdf/10.1145/3180155.3180172"
+    html_url: "https://www.ics.uci.edu/~seal/projects/terminator/index.html"
+  - name: "Automatic generation of inter-component communication exploits for Android applications"
+    authors: "Joshua Garcia, Mahmoud Hammad, <u>Negar Ghorbani</u>, Sam Malek"
+    conference: "<strong>FSE 2017</strong>, ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE), Paderborn, Germany, September 2017, 21% acceptance rate"
+    pdf: "https://dl.acm.org/doi/pdf/10.1145/3106237.3106286"
+    html_url: "https://www.ics.uci.edu/~seal/projects/letterbomb/index.html"
+  - name: "Modeling and Evaluation of Service Composition in Commercial Multi-Clouds using Timed Colored Petri Nets"
+    authors: "Reza Entezari-Maleki, Sayed Ehsan Etesami, <u>Negar Ghorbani</u>, Arian Akhavan Niaki, Leonel Sousa, Ali Movaghar"
+    conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017"
+    pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8116749"
+
+
+
+  # - name: Ben ;
+  #  video: https://youtu.be/eSkozhtT-9o
+    # pdf: http://seal.ics.uci.edu/publications/2020_MobiSys_BenchERoid.pdf
+
+    # pdf: http://seal.ics.uci.edu/publications/2020_ASE_Empirical.pdf
+
+  # - name: B
+  #   description: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android
+  #   html_url: https://github.com/seal-hub/ERCatcher
+  #
+  # - name: C
+  #   description: A Micro-Benchmark for Event Races in Android
+  #   html_url: https://github.com/seal-hub/bencheroid
+
+
 projects:
-  sort_by: pushed
-  # sort_by options:
-  #   - pushed
-  #   - stars
-  limit: 9
-  exclude:
-    archived: false
-    forks: true
-    projects:
-    # - repo-name
-    
-    
+  - name: DeltaDroid
+    description: An approach that assists Android developers with validating dynamic delivery behavior in their apps by augmenting their existing test suite. 
+    html_url: https://sites.google.com/view/deltadroid/home
+
+projects:
+  - name: Darcy
+    description: An approach that leverages static program analyses to automatically detect architectural inconsistencies within Java applications and repair them. 
+    html_url: https://github.com/seal-hub/darcy-artifact
+    source: github
+
+
+
+
+
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Java
 
-  - name: Web design
+  - name: Program Analysis
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Software Analysis and Testing
+
+  - name: Machine Learning for Automated Software Engineering
+
+  # - name: CSS
+  #   web_url: https://github.com/topics/css
+  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  #   description: I learned something I learned something I learned something I learned something
+
+  # - name: Web design
+
+  # - name: Sass
+  #   web_url: https://github.com/topics/sass
+  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
