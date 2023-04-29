@@ -44,15 +44,16 @@ social_media:
   # youtube: your_username
 
 work:
-- 
   - company: "University of Toronto"
-#     company_url: "https://research.facebook.com/teams/probability/"
-#     role: "Research Scientist"
-#     start: "September 2022"
-#     end: "Present"
-#     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-#       <li> Conducting research in the application of machine learning and natural language processing techniaues to improve the performance of compilers as part of the Probability team</li>
-#     </ul>"
+    company_url: "https://uhndata.io/"
+    role: "Graduate Research Assistant"
+    start: "January 2021"
+    end: "Present"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> To assist diagnosis of neurodevelopmental impairments, I developed  a generalized novel algorithm to detect cerebral microbleeds (CMB) in MRI modality from pre-term infants' brains.
+     </ul>"
+      <li> To assist diagnosis of neurodevelopmental impairments, I developed  a generalized novel algorithm to detect cerebral microbleeds (CMB) in MRI modality from pre-term infants' brains.
+     </ul>"
 #   - company: "University of California, Irvine"
 #     company_url: "http://seal.ics.uci.edu/"
 #     role: "Graduate Research Assistant"
