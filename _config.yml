@@ -16,188 +16,111 @@ defaults:
     values:
       layout: "post"
 
-bio: "I enjoy ......
-"
+bio: "Adventurous, Focused, Driven, Always up for a new challenge!"
 
-about: "blah blah blah"
+about: "I am a PhD candidate in Software Engineering at UC Irvine, under the supervision of <a href=\"https://www.ics.uci.edu/~malek/\">Dr. Sam Malek</a>. My research interest is in automated software testing and analysis using machine learning techniques as well as data analysis. My dissertation focus is on advancing accessibility testing and repair in mobile apps.
+In my heart of hearts, I am passionate about automation, driven to learn from observations, and dedicated to promoting inclusion. "
 
-email: fateme@cs.toronto.edu
+email: f.mehralian90@gmail.com
+
 
 social_media:
+  linkedin: fmehralian
+  scholar: Um6LsoAAAAAJ
+  github: fmehralian
+
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  scholar: QKNDs0AAAAJ
-  linkedin: fateme-sadat-haghpanah-b2b59a90
-  github: ftmhghpnh
   # mastodon: your_username
-  # medium: noidsirius
-  # stackoverflow: 2681272/noidsirius
+  # medium: your_username
+  # stackoverflow: your_user_id
   # telegram: your_username
-  twitter: FatemeHaghpanah
+  # twitter: your_username
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
 
 work:
-  - company: "University of Toronto"
-    company_url: "https://uhndata.io/"
+  - company: "University of California, Irvine"
+    company_url: "http://seal.ics.uci.edu"
     role: "Graduate Research Assistant"
-    start: "January 2021"
+    start: "Jun 2019"
     end: "Present"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li> To assist diagnosis of neurodevelopmental impairments, I developed  a generalized novel algorithm to detect cerebral microbleeds (CMB) in MRI modality from pre-term infants' brains.
-     </ul>"
-      <li> To assist diagnosis of neurodevelopmental impairments, I developed  a generalized novel algorithm to detect cerebral microbleeds (CMB) in MRI modality from pre-term infants' brains.
-     </ul>"
-#   - company: "University of California, Irvine"
-#     company_url: "http://seal.ics.uci.edu/"
-#     role: "Graduate Research Assistant"
-#     start: "September 2016"
-#     end: "August 2022"
-#     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-#       <li> Conducting research in the areas of Software Engineering, Program Analysis, Software Testing, and Mobile Apps Security Under supervision of Dr. Sam Malek and Dr. Joshua Garcia </li>
-#     </ul>"
-#   - company: "Microsoft Research, Developer Division (DevDiv) Data & AI"
-#     company_url: "https://www.microsoft.com/en-us/research/group/devdiv-dataai/"
-#     role: "Applied Scientist Intern"
-#     start: "March 2021"
-#     end: "September 2021"
-#     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-#       <li> Conducting research in the areas of Machine Learning for Automated Software Engineering </li>
-#     </ul>"
-#   - company: "Fujitsu Laboratories of America, Sunnyvale, CA"
-#     company_url: "https://www.fujitsu.com/us/about/businesspolicy/tech/rd/"
-#     role: "Software Engineering Research Intern"
-#     start: "June 2020"
-#     end: "September 2020"
-#     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-#       <li> Mining and fixing software bugs using crowd intelligence and unsupervised machine learning </li>
-#     </ul>"
-#   - company: "Morgan Stanley, New York, NY"
-#     company_url: "https://www.morganstanley.com"
-#     role: "Software Engineering Intern"
-#     start: "June 2019"
-#     end: "September 2019"
-#     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-#       <li> Designing and developing dynamic and static optimization methods in a framework for distributed and parallelized graph based calculations in Scala. </li>
-#     </ul>"
-#   - company: "Institute for Studies in Theoretical Physics and Mathematics (IPM), Tehran, Iran"
-#     company_url: ""
-#     role: "Research Assistant"
-#     start: "June 2015"
-#     end: "July 2016"
-#     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-#       <li> Modeling and Evaluation of Service Composition in Commercial Multi-Clouds using Timed Colored Petri Nets. </li>
-#     </ul>"
-#   - company: "Pishtazan Andishe Pouya, Tehran, Iran"
-#     company_url: ""
-#     role: "Software Engineering Intern"
-#     start: "January 2016"
-#     end: "July 2016"
-#     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-#       <li> Design and analysis of models for software information systems and web applications. </li>
-#     </ul>"
-#   - company: "VADA Future Communications,Tehran, Iran"
-#     company_url: ""
-#     role: "Software Developer"
-#     start: "January 2014"
-#     end: "December 2014"
-#     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-#       <li> Designed, developed, and maintained mobile and web applications. </li>
-#     </ul>"
+      <li> Designed and implemented a suite of novel automated accessibility testing tools for Android apps, utilizing machine learning techniques, as well as static and dynamic analysis methods.</li>
+      <li> Conducted extensive research into the use of image captioning for labeling unlabeled icons in Android apps, and identified a data-driven bias in the existing approach. Developed a novel deep learning solution, which significantly improved the quality of the generated labels.</li>
+      <li> Designed and implemented a deep learning-based technique using PyTorch for building an oracle for energy tests. </li>
+    </ul>"
+
+  - company: "Candelis Inc."
+    company_url: "https://www.candelis.com"
+    role: "Software Engineer"
+    start: "Jun 2021"
+    end: "Sep 2022"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li>Designed and implemented the DICOMWeb standard, enabling web-based access to DICOM data. This involved developing the Store, Retrieve, and Query APIs as a new service.
+ </li>
+      <li> Implemented a cost-efficient archive and backup mechanism for the DICOM data using various Amazon S3 storage classes. This involved designing a data lifecycle management strategy and utilizing Amazon S3's Intelligent-Tiering and Glacier storage classes to optimize storage costs.</li>
+      <li> Integrated Prometheus for time-series monitoring of key performance metrics, and utilized Grafana to visualize the data and gain insights into the system behavior. </li>
+    </ul>"
+
+  - company: "Café Bazaar"
+    company_url: "https://cafebazaar.ir/about?l=en"
+    role: "Software Engineer"
+    start: "Jun 2018"
+    end: "Aug 2018"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+      <li> Developed a micro-service using Django for Bazaar, Iran's largest app store with over 40 million users, to display ads on their search page. Utilized Docker and Kubernetes for containerization and orchestration of the micro-service, respectively.</li>
+      <li> Migrated the previous Redis database to PostgreSQL and optimized the queries to ensure improved performance and scalability.</li>
+      <li> Implemented a Second-bid auction strategy for the advertisements and conducted beta testing of the service. </li>
+    </ul>"
+
 
 
 publication:
-#   - name: "Program Merge Conflict Resolution via Neural Transformers"
-#     authors: "Alexey Svyatkovskiy, Sarah Fakhoury, <u>Negar Ghorbani</u>, Todd Mytkowicz, Elizabeth Dinella, Christian Bird, Jinu Jang, Neel Sundaresan, and Shuvendu K. Lahiri"
-#     conference: "ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE), 2022"
-#     pdf: "https://dl.acm.org/doi/10.1145/3540250.3549163"
-#   - name: "DeltaDroid: Dynamic Delivery Testing in Android"
-#     authors: "<u>Negar Ghorbani</u>, Reyhaneh Jabbarvand, Navid Salehnamadi, Joshua Garcia, and Sam Malek"
-#     conference: "ACM Trans. on Software Engineering and Methodology (TOSEM), July 2022"
-#     pdf: "https://dl.acm.org/doi/10.1145/3563213"
-#   - name: "Forecasting Architectural Decay from Evolutionary History"
-#     authors: "Joshua Garcia, Ehsan Kouroshfar, <u>Negar Ghorbani</u>, and Sam Malek"
-#     conference: "IEEE Transactions on Software Engineering, 2021"
-#     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9357984"
-#   - name: "Flair: Efficient Analysis of Android Inter-Component Vulnerabilities in Response to Incremental Changes"
-#     authors: "Hamid Bagheri, Jianghao Wang, Jarod Aerts, <u>Negar Ghorbani</u>, and Sam Malek"
-#     conference: "Empirical Software Engineering (EMSE), 2021"
-#   - name: "Detection and repair of architectural inconsistencies in Java"
-#     authors: "<u>Negar Ghorbani</u>, Joshua Garcia, Sam Malek"
-#     conference: "<strong>ICSE 2019</strong>, IEEE/ACM 41st International Conference on Software Engineering, Montreal, QC, Canada, May 2019, 21% acceptance rate"
-#     repo: "https://github.com/seal-hub/darcy-artifact"
-#     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8812079"
-#     html_url: "https://www.ics.uci.edu/~seal/projects/darcy/index.html"
-#   - name: "A temporal permission analysis and enforcement framework for android"
-#     authors: "Alireza Sadeghi, Reyhaneh Jabbarvand, <u>Negar Ghorbani</u>, Hamid Bagheri, Sam Malek"
-#     conference: "<strong>ICSE 2018</strong>, IEEE/ACM 40th International Conference on Software Engineering, Gothenburg, Sweden, May 2018, 21% acceptance rate"
-#     pdf: "https://dl.acm.org/doi/pdf/10.1145/3180155.3180172"
-#     html_url: "https://www.ics.uci.edu/~seal/projects/terminator/index.html"
-#   - name: "Automatic generation of inter-component communication exploits for Android applications"
-#     authors: "Joshua Garcia, Mahmoud Hammad, <u>Negar Ghorbani</u>, Sam Malek"
-#     conference: "<strong>FSE 2017</strong>, ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE), Paderborn, Germany, September 2017, 21% acceptance rate"
-#     pdf: "https://dl.acm.org/doi/pdf/10.1145/3106237.3106286"
-#     html_url: "https://www.ics.uci.edu/~seal/projects/letterbomb/index.html"
-#   - name: "Modeling and Evaluation of Service Composition in Commercial Multi-Clouds using Timed Colored Petri Nets"
-#     authors: "Reza Entezari-Maleki, Sayed Ehsan Etesami, <u>Negar Ghorbani</u>, Arian Akhavan Niaki, Leonel Sousa, Ali Movaghar"
-#     conference: "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2017"
-#     pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8116749"
-
-
-
-  # - name: Ben ;
-  #  video: https://youtu.be/eSkozhtT-9o
-    # pdf: http://seal.ics.uci.edu/publications/2020_MobiSys_BenchERoid.pdf
-
-    # pdf: http://seal.ics.uci.edu/publications/2020_ASE_Empirical.pdf
-
-  # - name: B
-  #   description: A Static Analysis Framework for Accurate and Scalable Event-Race Detection in Android
-  #   html_url: https://github.com/seal-hub/ERCatcher
-  #
-  # - name: C
-  #   description: A Micro-Benchmark for Event Races in Android
-  #   html_url: https://github.com/seal-hub/bencheroid
-
+  - name: "Too Much Accessibility is Harmful! Automated Detection and Analysis of Overly Accessible Elements in Mobile Apps"
+    authors: "<u>Forough Mehralian*</u>, Navid Salehnamadi*, Syed Fatiul Huq, and Sam Malek"
+    conference: "<strong>ASE 2022</strong>, 37th International Conference on Automated Software Engineering, October 2022"
+    html_url: "https://dl.acm.org/doi/abs/10.1145/3551349.3560424"
+    pdf: "https://seal.ics.uci.edu/publications/2022_ASE_Oversight.pdf"
+  - name: "Groundhog: An Automated Accessibility Crawler for Mobile Apps"
+    authors: "Navid Salehnamadi*, <u>Forough Mehralian*</u>, and Sam Malek"
+    conference: "<strong>ASE 2022</strong>, 37th International Conference on Automated Software Engineering, October 2022"
+    pdf: "https://seal.ics.uci.edu/publications/2022_ASE_Groundhog.pdf"
+    html_url: "https://dl.acm.org/doi/abs/10.1145/3551349.3556905"
+  - name: "Data-driven Accessibility Repair Revisited: On the Effectiveness of Generating Labels for Icons in Android Apps"
+    authors: "<u>Forough Mehralian</u>, Navid Salehnamadi, and Sam Malek"
+    conference: "<strong>ESEC/FSE 2021</strong>, 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, August 2021"
+    repo: "https://github.com/fmehralian/COALA"
+    html_url: "https://dl.acm.org/doi/abs/10.1145/3468264.3468604"
+  - name: "Automated Construction of Energy Test Oracle for Android"
+    authors: "Reyhaneh Jabbarvand, <u>Forough Mehralian</u>, and Sam Malek"
+    conference: "<strong>ESEC/FSE 2020</strong>, 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, August 2020"
+    repo: "https://github.com/seal-hub/ACETON"
+    html_url: "https://dl.acm.org/doi/abs/10.1145/3468264.3468604"
 
 projects:
-#   - name: DeltaDroid
-#     description: An approach that assists Android developers with validating dynamic delivery behavior in their apps by augmenting their existing test suite. 
-#     html_url: https://sites.google.com/view/deltadroid/home
+  - name: ACETON
+    description: An LSTM model with attention mechanism to automatically generate energy test oracles for mobile apps.
+    html_url: https://github.com/seal-hub/ACETON
+    source: github
 
-projects:
-  - name: 
-#   Darcy
-#     description: An approach that leverages static program analyses to automatically detect architectural inconsistencies within Java applications and repair them. 
-#     html_url: https://github.com/seal-hub/darcy-artifact
-#     source: github
+  - name: COALA
+    description: A context-aware label generation model with encoder-decoder architecture to generate labels for unlabeld icons.
+    html_url: https://github.com/fmehralian/COALA
+    source: github
 
-
-
-
+  - name: Oversight
+    description: An accessibility service that automatically explores Android apps with and without TalkBack to find overly accessible elements.
+    html_url: https://github.com/seal-hub/Oversight
+    source: github
 
 topics:
   - name: Java
-
-  - name: Program Analysis
-
-  - name: Software Analysis and Testing
-
-  - name: Machine Learning for Automated Software Engineering
-
-  # - name: CSS
-  #   web_url: https://github.com/topics/css
-  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-  #   description: I learned something I learned something I learned something I learned something
-
-  # - name: Web design
-
-  # - name: Sass
-  #   web_url: https://github.com/topics/sass
-  #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Python
+  - name: Machine Learning
