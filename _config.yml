@@ -74,7 +74,7 @@ work:
     start: "Sep 2017"
     end: "Aug 2018"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-    Divar (Private company in Tehran) is a classified-ad in Iran which is one of products of CafeBazaar.
+    Divar, is a classified-ad in Iran which is one of products of CafeBazaar.
       <li> To improve the relevancy of search results which leads to a better user experience, as the project owner, I developed an innovative search algorithm that utilizes semantic networks and word embedding.</li>
       <li> Refine user queries and optimize search filters for different categories to enhance the search experience by utilizing behavioral pattern analysis of unstructured data from user action logs. </li>
       <li> To assist human reviewers in finding duplicate listings and removing them from the platform, we developed a machine learning-based image search algorithm using Convolutional Neural Networks.</li>
