@@ -16,7 +16,7 @@ defaults:
     values:
       layout: "post"
 
-bio: "Adventurous, nature-loving, curious, and always up for a new challenge and never afraid to push boundaries!"
+bio: "Adventurous, nature-loving, curious, and always up for a new challenge and never afraid to push boundaries."
 about: "ABOUT ME"
 email: ftm.haghpanah@gmail.com
 
@@ -44,16 +44,17 @@ social_media:
   # youtube: your_username
 
 work:
-  - company: "University of California, Irvine"
-    company_url: "http://seal.ics.uci.edu"
+  - company: "University of Toronto"
+    company_url: ""
     role: "Graduate Research Assistant"
-    start: "Jun 2019"
+    start: "January 2021"
     end: "Present"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li> Designed and implemented a suite of novel automated accessibility testing tools for Android apps, utilizing machine learning techniques, as well as static and dynamic analysis methods.</li>
-      <li> Conducted extensive research into the use of image captioning for labeling unlabeled icons in Android apps, and identified a data-driven bias in the existing approach. Developed a novel deep learning solution, which significantly improved the quality of the generated labels.</li>
-      <li> Designed and implemented a deep learning-based technique using PyTorch for building an oracle for energy tests. </li>
-    </ul>"
+    Affiliated with
+``\textit{\href{https://vectorinstitute.ai/}{Vector Institute for Artificial Intelligence}}'', ``\textit{\href{https://www.uhn.ca/}{University Health Network}}'', and ``\textit{\href{https://www.sickkids.ca/}{SickKids, the Hospital for Children}}.''
+      <li> To assist diagnosis of neurodevelopmental impairments, I developed  a generalized novel algorithm to detect cerebral microbleeds (CMB) in MRI modality from pre-term infants\' brains. </li>
+      <li> To expedite the diagnosis of brain tumors in children in hospital emergency rooms, where wait times can be lengthy, I developed a machine learning model for identifying signs of raised intracranial pressure (ICP) in ocular point-of-care ultrasound (POCUS) images.  </li>
+      </ul>"
 
   - company: "Candelis Inc."
     company_url: "https://www.candelis.com"
