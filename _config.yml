@@ -50,7 +50,7 @@ work:
     start: "January 2021"
     end: "Present"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-    Affiliated with , <a href="https://vectorinstitute.ai">Vector Institute for Artificial Intelligence</a> , , University Health Network, and , SickKids, the Hospital for Children.
+    Affiliated with , <a href=\"https://www.ics.uci.edu/~malek/\">Dr. Sam Malek</a> , Vector Institute for Artificial Intelligence</a> , , University Health Network, and , SickKids, the Hospital for Children.
       <li> To assist diagnosis of neurodevelopmental impairments, I developed  a generalized novel algorithm to detect cerebral microbleeds (CMB) in MRI modality from pre-term infants' brains. </li>
       <li> To expedite the diagnosis of brain tumors in children in hospital emergency rooms, where wait times can be lengthy, I developed a machine learning model for identifying signs of raised intracranial pressure (ICP) in ocular point-of-care ultrasound (POCUS) images.  </li>
       </ul>"
