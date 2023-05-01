@@ -47,7 +47,7 @@ work:
   - company: "University of Toronto"
     company_url: ""
     role: "Graduate Research Assistant"
-    start: "January 2021"
+    start: "Jan 2021"
     end: "Present"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     Affiliated with , <a href=\"https://vectorinstitute.ai\">Vector Institute for Artificial Intelligence</a>, <a href=\"https://www.uhn.ca/\">University Health Network</a>, and <a href=\"https://www.sickkids.ca/\">SickKids, the Hospital for Children</a>.
@@ -58,28 +58,27 @@ work:
    # https://www.uhn.ca/
    # https://www.sickkids.ca/
 
-  - company: "Candelis Inc."
-    company_url: "https://www.candelis.com"
-    role: "Software Engineer"
-    start: "Jun 2021"
-    end: "Sep 2022"
+  - company: "Columbia University"
+    company_url: "https://hbil.bme.columbia.edu/"
+    role: "Graduate Research Assistant"
+    start: "Sep 2018"
+    end: "Sep 2020"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li>Designed and implemented the DICOMWeb standard, enabling web-based access to DICOM data. This involved developing the Store, Retrieve, and Query APIs as a new service.
- </li>
-      <li> Implemented a cost-efficient archive and backup mechanism for the DICOM data using various Amazon S3 storage classes. This involved designing a data lifecycle management strategy and utilizing Amazon S3's Intelligent-Tiering and Glacier storage classes to optimize storage costs.</li>
-      <li> Integrated Prometheus for time-series monitoring of key performance metrics, and utilized Grafana to visualize the data and gain insights into the system behavior. </li>
+      <li> In order to have a better understanding of neonatal brain development, I implemented machine learning algorithms to segment different regions and tissues of an infant's brain. </li>
+      <li> To improve MRI safety, I developed a novel algorithm to segment different tissues of whole-body using various MRI scan modalities, which can be used to track specific tissue temperature increases during MRI scan. </li>
     </ul>"
 
-  - company: "Café Bazaar"
+  - company: "Café Bazaar - Divar"
     company_url: "https://cafebazaar.ir/about?l=en"
-    role: "Software Engineer"
-    start: "Jun 2018"
+    role: "Data Scientist"
+    start: "Sep 2017"
     end: "Aug 2018"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li> Developed a micro-service using Django for Bazaar, Iran's largest app store with over 40 million users, to display ads on their search page. Utilized Docker and Kubernetes for containerization and orchestration of the micro-service, respectively.</li>
-      <li> Migrated the previous Redis database to PostgreSQL and optimized the queries to ensure improved performance and scalability.</li>
-      <li> Implemented a Second-bid auction strategy for the advertisements and conducted beta testing of the service. </li>
-    </ul>"
+    Divar (Private company in Tehran) is a classified-ad in Iran which is one of products of CafeBazaar.
+      <li> To improve the relevancy of search results which leads to a better user experience, as the project owner, I developed an innovative search algorithm that utilizes semantic networks and word embedding.</li>
+      <li> Refine user queries and optimize search filters for different categories to enhance the search experience by utilizing behavioral pattern analysis of unstructured data from user action logs. </li>
+      <li> To assist human reviewers in finding duplicate listings and removing them from the platform, we developed a machine learning-based image search algorithm using Convolutional Neural Networks.</li>
+      </ul>"
 
 
 
