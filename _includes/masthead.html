@@ -11,19 +11,13 @@
     {% octicon north-star height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:resume %}
     Download my resume!
   </a>
-  </h4>
+</h4>
 <p class="mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
-  {{site.bio}}
+  {{ site.bio }}
 </p>
 
 {% if include.metadata %}
-  <div class="f4 mb-1">
-    <!-- <div class="{{ metadata_styles }}">
-      {% octicon clippy height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
-      <a href="Resume.pdf" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-        My Resume
-      </a>
-    </div> -->
+  <div class="f4 mb-6">
     {% if user.name %}
       <!-- <div class="{{ metadata_styles }}">
         {% octicon mark-github height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
@@ -62,8 +56,8 @@
     {% if user.hireable %}
       <span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Available for hire</span>
     {% endif %}
+    {% unless posts_total == 0 %}
+      {% include thoughts.html %}
+    {% endunless %}
   </div>
 {% endif %}
-{% unless posts_total == 0 %}
-    {% include thoughts.html %}
-{% endunless %}
