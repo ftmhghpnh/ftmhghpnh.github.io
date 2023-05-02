@@ -51,8 +51,8 @@ work:
     end: "May 2023 (expected)"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     Affiliated with , <a href=\"https://vectorinstitute.ai\">Vector Institute for Artificial Intelligence</a>, <a href=\"https://www.uhn.ca/\">University Health Network</a>, and <a href=\"https://www.sickkids.ca/\">SickKids, the Hospital for Children</a>.
-      <li> To assist diagnosis of neurodevelopmental impairments, I developed  a generalized novel algorithm to detect cerebral microbleeds (CMB) in MRI modality from pre-term infants' brains. </li>
-      <li> To expedite the diagnosis of brain tumors in children in hospital emergency rooms, where wait times can be lengthy, I developed a machine learning model for identifying signs of raised intracranial pressure (ICP) in ocular point-of-care ultrasound (POCUS) images.  </li>
+    <li> Designed and developed a novel classification algorithm to detect cerebral microbleeds (CMB) in preterm infants' MRI scans, achieving over 90\% precision and recall. The neural network model is the first-ever developed one for infant brain scans. </li>
+    <li> Developed a supervised convolutional neural network model to expedite the diagnosis of brain tumors in children within hospital emergency rooms with the AUC ROC score of 0.95. </li>
       </ul>"
    # https://vectorinstitute.ai
    # https://www.uhn.ca/
@@ -64,9 +64,9 @@ work:
     start: "Sep 2018"
     end: "Sep 2020"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-      <li> In order to have a better understanding of neonatal brain development, I implemented machine learning algorithms to segment different regions and tissues of an infant's brain. </li>
-      <li> To improve MRI safety, I developed a novel algorithm to segment different tissues of whole-body using various MRI scan modalities, which can be used to track specific tissue temperature increases during MRI scan. </li>
-    </ul>"
+      <li> Implemented machine learning algorithms to segment distinct regions and tissues of neonatal brains, aiming to gain a better understanding of their development.</li>
+      <li> Designed a novel neural network-based segmentation algorithm to enhance MRI safety by identifying various tissues of the entire body using different MRI scan modalities. </li>
+</ul>"
 
   - company: "Café Bazaar - Divar"
     company_url: "https://cafebazaar.ir/about?l=en"
@@ -75,9 +75,9 @@ work:
     end: "Aug 2018"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     Divar, is a classified-ad in Iran which is one of products of CafeBazaar.
-      <li> To improve the relevancy of search results which leads to a better user experience, as the project owner, I developed an innovative search algorithm that utilizes semantic networks and word embedding.</li>
-      <li> Refine user queries and optimize search filters for different categories to enhance the search experience by utilizing behavioral pattern analysis of unstructured data from user action logs. </li>
-      <li> To assist human reviewers in finding duplicate listings and removing them from the platform, we developed a machine learning-based image search algorithm using Convolutional Neural Networks.</li>
+      <li> As the project owner, developed an innovative search algorithm that employs semantic networks and word embedding to enhance the relevancy of search results, ultimately leading to a better user experience.</li>
+      <li> Utilized behavioral pattern analysis of unstructured data from user action logs to refine user queries and optimize search filters for various categories, resulting in an improved search experience. </li>
+      <li> Developed a machine learning-based image search algorithm utilizing Convolutional Neural Networks to aid human reviewers in identifying and removing duplicate listings from the platform.</li>
       </ul>"
 
 
