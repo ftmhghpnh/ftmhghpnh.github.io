@@ -1,2 +1,8 @@
-- name: About
-  link: #about
+- name: About me
+  link: "#about"
+- name: Work Experience
+  link: "#work-exp"
+- name: Publications
+  link: "#publications"
+- name: Projects
+  link: "#projects"
