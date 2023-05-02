@@ -146,6 +146,7 @@ projects:
     <li> Developed a classification engine for facial emotion recognition using various feature extraction and selection methods, such as HOG, SIFT, PCA, and landmark detection</li>
     <li> Contributed to feature selection, data preprocessing, and advanced model training using LDA, SVC, RandomForest, MLP, KNN, AdaBoost.</li>
     <li> Attempted to use pre-trained CNN models but lacked sufficient data and labeled images for training.</li>
+    </ul>"
     html_url: https://github.com/ftmhghpnh/fall2019-proj3-sec2--group6
     source: github
     
