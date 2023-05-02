@@ -57,9 +57,9 @@
       <span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Available for hire</span>
     {% endif %}
     <div class="d-flex flex-wrap flex-items-start {% if site.style == 'dark' %}navigation-white{% else %}navigation{% endif %}">
-      <ul class="mt-2">
+      <ul class="mt-2" style="list-style: none;">
         {% for item in site.data.navigation %}
-          <li class="mb-1"> <a class="f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %} {% if site.style == 'dark' %}navigation-selected-white{% else %}navigation-selected-gray{% endif %}" href="{{ item.link }}">{{ item.name }}</a></li>
+          <li class="mb-1"> <a class="f4 font-weight-bold" href="{{ item.link }}">{{ item.name }}</a></li>
         {% endfor %}
       </ul>
      </div>
