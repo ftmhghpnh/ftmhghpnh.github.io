@@ -103,8 +103,7 @@ publication:
 projects:
   - name: Causality in Medical Imaging
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-    <li> Conducted supervised experiments using machine learning algorithms to investigate the detection of MRI acquisition parameters in medical imaging for Parkinson's disease using the PPMI dataset. </li>
-    <li> Demonstrated the ability of ML and DL models to identify variations in the images beyond medical conditions, highlighting the need to account for potential biases in the data and optimize models for improved performance.</li>
+    Investigated the impact of causality on medical imaging by utilizing supervised machine learning algorithms to detect MRI acquisition parameters using the PPMI dataset, aiming to assess the potential improvement in performance.
     </ul>"
     html_url: https://github.com/ftmhghpnh/causality-in-PPMI-imaging-dataset
     source: github
