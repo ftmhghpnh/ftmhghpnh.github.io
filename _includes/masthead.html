@@ -59,7 +59,7 @@
     <div class="{% if site.style == 'dark' %}navigation-white{% else %}navigation{% endif %}">
       <ul class="mt-6">
         {% for item in site.data.navigation %}
-          <li class="mb-4"> <a class="f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %} {% if site.style == 'dark' %}navigation-selected-white{% else %}navigation-selected-gray{% endif %} href="{{ item.link }}">{{ item.name }}</a></li>
+          <li class="mb-4"> <a class="f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %} {% if site.style == 'dark' %}navigation-selected-white{% else %}navigation-selected-gray{% endif %}" href="{{ item.link }}">{{ item.name }}</a></li>
         {% endfor %}
       </ul>
      </div>
