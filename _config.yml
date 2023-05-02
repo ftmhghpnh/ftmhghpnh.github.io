@@ -45,7 +45,7 @@ social_media:
 
 work:
   - company: "University of Toronto"
-    company_url: ""
+    company_url: "https://web.cs.toronto.edu/"
     role: "Graduate Research Assistant"
     start: "Jan 2021"
     end: "Present"
