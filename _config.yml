@@ -106,16 +106,17 @@ publication:
 projects:
   - name: Causality in Medical Imaging
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-    <li> Explored the impact of causal analysis in medical imaging for Parkinson's disease using the PPMI dataset. </li>
-    <li> Designed experiments to investigate whether machine learning algorithms can detect different MRI acquisition parameters, revealing the importance of addressing potential biases in imaging data.</li>
+    <li> Conducted supervised experiments using machine learning algorithms to investigate the detection of MRI acquisition parameters in medical imaging for Parkinson's disease using the PPMI dataset. </li>
+    <li> Demonstrated the ability of ML and DL models to identify variations in the images beyond medical conditions, highlighting the need to account for potential biases in the data and optimize models for improved performance.</li>
     </ul>"
     html_url: https://github.com/ftmhghpnh/causality-in-PPMI-imaging-dataset
     source: github
     
   - name: Chest-Xray-Analysis
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-    <li> Developed a deep neural network to automatically identify important chest diseases from X-ray images for screening, diagnosis, and management of life-threatening diseases. </li>
-    <li> Evaluated the model's performance against previous works, demonstrating comparable results and the potential to aid medical professionals in recognizing different diseases and improving patient outcomes. </li>
+    <li> Developed a deep neural network for automatic identification of chest diseases from X-ray images using machine learning. </li>
+    <li> Trained the model on a large dataset and used a convolutional neural network with a softmax classifier to make predictions. </li>
+    <li> Evaluated the model's performance using standard metrics, showing comparable results to previous works and potential for aiding medical professionals in disease recognition and improving patient outcomes. </li>
     </ul>"
     html_url: https://github.com/ftmhghpnh/chest-xray-analysis
     source: github
