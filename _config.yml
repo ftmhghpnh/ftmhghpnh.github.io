@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 bio: "Adventurous, nature-loving, curious, and always up for a new challenge and never afraid to push boundaries."
-about: "ABOUT ME"
+about: "ABOUT ME, add menu on the left side and link them, "
 email: ftm.haghpanah@gmail.com
 
 
@@ -25,7 +25,7 @@ social_media:
   linkedin: fateme-sadat-haghpanah-b2b59a90
   scholar: _QKNDs0AAAAJ&hl
   github: ftmhghpnh
-  twitter: fatemehghpanah
+  twitter: fatemehaghpanah
 
   # behance: your_username
   # dribbble: your_username
@@ -128,7 +128,7 @@ projects:
     html_url: https://github.com/ftmhghpnh/fall2019-proj3-sec2--group6
     source: github
     
-  - name: Algorithm implementation and evaluation: Collaborative Filtering
+  - name: Algorithm implementation and evaluation, Collaborative Filtering
     description: FILL OUT
     html_url: https://github.com/ftmhghpnh/fall2019-project4-sec2-grp8
     source: github
