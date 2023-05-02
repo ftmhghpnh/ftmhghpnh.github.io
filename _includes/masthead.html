@@ -56,6 +56,13 @@
     {% if user.hireable %}
       <span title="Hire me" class="d-inline-block f5 rounded-2 text-white bg-green py-1 px-2">Available for hire</span>
     {% endif %}
+    <div class="navigation">
+      <ul class="mt-6">
+        {% for item in site.data.navigation %}
+          <li class="mb-4"> <a class="f4 text-white {% if page.url == item.link %} navigation-selected-white {% endif %}" href="{{ item.link }}">{{ item.name }}</a></li>
+        {% endfor %}
+      </ul>
+     </div>
     {% unless posts_total == 0 %}
       {% include thoughts.html %}
     {% endunless %}
