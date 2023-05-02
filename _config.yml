@@ -111,7 +111,8 @@ projects:
     repo: https://github.com/ftmhghpnh/chest-xray-analysis
 
   - name: Causality in Medical Imaging
-    description: As a senior student in a group of three, we explored the impact of causal analysis in medical imaging for Parkinson's disease using the PPMI dataset. I have designed experiments focusing on investigating whether different MRI acquisition parameters can be detected by machine learning supervised algorithms, specifically looking at acquisition shift. Our study shows that ML and DL models can focus and detect other differences in the images besides medical conditions, such as acquisition parameters. This highlights the importance of investigating potential biases and tuning models to mitigate them.
+    description: <li> Explored the impact of causal analysis in medical imaging for Parkinson's disease using the PPMI dataset. </li>
+    <li> Designed experiments to investigate whether machine learning algorithms can detect different MRI acquisition parameters, revealing the importance of addressing potential biases in imaging data.</li>
     html_url: https://github.com/ftmhghpnh/causality-in-PPMI-imaging-dataset
     source: github
 
