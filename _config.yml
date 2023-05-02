@@ -95,8 +95,6 @@ publication:
     html_url: "https://www.sciencedirect.com/science/article/abs/pii/S0730725X22001102?casa_token=hVc6IOb7YwEAAAAA:4cqAAdqRZ4nJfUfdy-_0Kwj-arsA3aOjFcXVNvJI9vPBcXQisDkA2yAsOEE5sE81_FP3Ni_4Qw"
     pdf: ""
     
-  
-    
   - name: "A transfer-learning approach for first-year developmental infant brain segmentation using deep neural networks"
     authors: "Yun Wang*, <u>Fateme Sadat Haghpanah*</u>, Natalie Aw, Andrew Laine, Jonathan Posner"
     conference: "<strong>bioRxiv</strong>, May 2021"
@@ -105,9 +103,9 @@ publication:
  
 
 projects:
-  - name: ACETON
-    description: An LSTM model with attention mechanism to automatically generate energy test oracles for mobile apps.
-    html_url: https://github.com/seal-hub/ACETON
+  - name: Chest-Xray-Analysis
+    description: In my project, I developed a deep neural network architecture to automatically identify important chest diseases from X-ray images, which is critical for screening, diagnosis and managing life-threatening diseases. This innovative approach has the potential to aid medical professionals in recognizing different diseases and improve patient outcomes. The performance of the model was evaluated against previous works, demonstrating comparable results.
+    html_url: https://github.com/ftmhghpnh/chest-xray-analysis
     source: github
 
   - name: COALA
@@ -121,6 +119,7 @@ projects:
     source: github
 
 topics:
-  - name: Java
   - name: Python
   - name: Machine Learning
+  - name: Deep Learning
+  - name: Computer Vision
