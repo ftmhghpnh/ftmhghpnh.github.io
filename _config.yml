@@ -133,7 +133,17 @@ projects:
     source: github
    
   - name: A "data story" on the songs of our times
-    description: FILL OUT
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+    <li> Conducted a study on the lyrics of music from various bands and singers in different genres </li>
+    <li> Utilized NLP techniques, including text preprocessing, data cleaning, topic modeling, and word embedding, to analyze the lyrics
+    </li>
+    <li> Applied clustering algorithms to semantically group the lyrics based on their content and genre
+    </li>
+    <li> Discovered that some bands and artists have lyrics that are more similar to other genres than their own, leading to potential cross-genre recommendations for music fans
+    </li>
+    <li> Required skills: NLP, text preprocessing, data cleaning, topic modeling, word embedding, clustering algorithms
+    </li>
+    </ul>"
     html_url: https://github.com/ftmhghpnh/fall2019-proj2--sec2-grp3
     source: github
     
