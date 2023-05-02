@@ -116,7 +116,7 @@ projects:
     source: github
     repo: https://github.com/ftmhghpnh/chest-xray-analysis
 
-  - name: Shiny App Development - Housing Litigations Analysis
+  - name: Shiny App Development 
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     Developed a Shiny App for data visualization to explore potential inquiries about the public dataset on housing litigation in NYC. 
     </ul>"
@@ -125,9 +125,7 @@ projects:
    
   - name: A "data story" on the songs of our times
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-    <li> Conducted a study on the lyrics of music from different genres using NLP techniques, including text preprocessing, data cleaning, topic modeling, and word embedding. </li>
-    <li> Demonstrated that lyrics from different genres can be semantically clustered based on their content. </li>
-    <li> Identified potential cross-genre appeal by identifying some bands and artists whose lyrics were more similar to other genres than their own. </li>
+    Conducted a study on the lyrics of music from different genres using NLP techniques, including text preprocessing, data cleaning, topic modeling, and word embedding.
     </ul>"
     html_url: https://github.com/ftmhghpnh/fall2019-proj1--ftmhghpnh
     source: github
