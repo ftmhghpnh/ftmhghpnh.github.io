@@ -141,7 +141,7 @@ projects:
     html_url: https://github.com/ftmhghpnh/fall2019-proj2--sec2-grp3
     source: github
     
-  - name: Shiny Can you recognize the emotion from an image of a face?
+  - name: Can you recognize the emotion from an image of a face?
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     <li> Developed a classification engine for facial emotion recognition using various feature extraction and selection methods, such as HOG, SIFT, PCA, and landmark detection</li>
     <li> Contributed to feature selection, data preprocessing, and advanced model training using LDA, SVC, RandomForest, MLP, KNN, AdaBoost.</li>
