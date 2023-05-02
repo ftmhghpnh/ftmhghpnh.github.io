@@ -16,8 +16,8 @@ defaults:
     values:
       layout: "post"
 
-bio: "I relish spending time in nature (for example hiking and kayaking), acquiring new skills (currently playing piano), reading books, and discovering new music on Spotify!"
-about: "ABOUT ME"
+bio: "I enjoy spending time in nature (for example hiking and kayaking), acquiring new skills (currently playing piano), reading books, and discovering new music on Spotify!"
+about: "I am Fateme (/fɑ:te'me/), a M.Sc. student at the University of Toronto and Vector Institute, working with Prof. Michael Brudno. My research interests lie in developing practical solutions for the adoption of AI in real-world applications. During my masters, I focused on utilizing machine learning techniques to tackle healthcare challenges and identifying barriers that prevent the deployment of these algorithms in real-world settings."
 email: ftm.haghpanah@gmail.com
 
 
