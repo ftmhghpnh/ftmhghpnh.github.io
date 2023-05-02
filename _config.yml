@@ -129,7 +129,7 @@ projects:
     <li> Demonstrated that lyrics from different genres can be semantically clustered based on their content. </li>
     <li> Identified potential cross-genre appeal by identifying some bands and artists whose lyrics were more similar to other genres than their own. </li>
     </ul>"
-    html_url: https://github.com/ftmhghpnh/fall2019-proj2--sec2-grp3
+    html_url: https://github.com/ftmhghpnh/fall2019-proj1--ftmhghpnh
     source: github
     
   - name: Can you recognize the emotion from an image of a face?
