@@ -108,14 +108,34 @@ projects:
     html_url: https://github.com/ftmhghpnh/chest-xray-analysis
     source: github
 
-  - name: COALA
-    description: A context-aware label generation model with encoder-decoder architecture to generate labels for unlabeld icons.
-    html_url: https://github.com/fmehralian/COALA
+  - name: Causality in Medical Imaging
+    description:  FILLL OUT
+    html_url: https://github.com/ftmhghpnh/causality-in-PPMI-imaging-dataset
     source: github
 
-  - name: Oversight
-    description: An accessibility service that automatically explores Android apps with and without TalkBack to find overly accessible elements.
-    html_url: https://github.com/seal-hub/Oversight
+  - name: Shiny App Development
+    description: FILL OUT
+    html_url: https://github.com/ftmhghpnh/fall2019-proj2--sec2-grp3
+    source: github
+   
+  - name: A "data story" on the songs of our times
+    description: FILL OUT
+    html_url: https://github.com/ftmhghpnh/fall2019-proj2--sec2-grp3
+    source: github
+    
+  - name: Shiny Can you recognize the emotion from an image of a face?
+    description: FILL OUT
+    html_url: https://github.com/ftmhghpnh/fall2019-proj3-sec2--group6
+    source: github
+    
+  - name: Algorithm implementation and evaluation: Collaborative Filtering
+    description: FILL OUT
+    html_url: https://github.com/ftmhghpnh/fall2019-project4-sec2-grp8
+    source: github
+   
+  - name: Landmark Recognition Challenge
+    description: FILL OUT
+    html_url: https://github.com/ftmhghpnh/fall2019-project5-sec2-grp4
     source: github
 
 topics:
