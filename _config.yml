@@ -93,21 +93,16 @@ publication:
     authors: "Yun Wang*, <u>Fateme Sadat Haghpanah*</u>, Xuzhe Zhang, Katie Santamaria, Gabriela Koch da Costa Aguiar Alves, Elizabeth Bruno, Natalie Aw, Alexis Maddocks, Cristiane S Duarte, Catherine Monk, Andrew Laine, Jonathan Posner, program collaborators for Environmental influences on Child Health Outcomes"
     conference: "<strong>Brain Informatics Journal</strong>, December 2022, Volume 9, Pages 1-12"
     html_url: "https://www.sciencedirect.com/science/article/abs/pii/S0730725X22001102?casa_token=hVc6IOb7YwEAAAAA:4cqAAdqRZ4nJfUfdy-_0Kwj-arsA3aOjFcXVNvJI9vPBcXQisDkA2yAsOEE5sE81_FP3Ni_4Qw"
-    
     pdf: ""
     
   
     
-  - name: "Data-driven Accessibility Repair Revisited: On the Effectiveness of Generating Labels for Icons in Android Apps"
-    authors: "<u>Forough Mehralian</u>, Navid Salehnamadi, and Sam Malek"
-    conference: "<strong>ESEC/FSE 2021</strong>, 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, August 2021"
-    repo: "https://github.com/fmehralian/COALA"
-    html_url: "https://dl.acm.org/doi/abs/10.1145/3468264.3468604"
-  - name: "Automated Construction of Energy Test Oracle for Android"
-    authors: "Reyhaneh Jabbarvand, <u>Forough Mehralian</u>, and Sam Malek"
-    conference: "<strong>ESEC/FSE 2020</strong>, 28th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, August 2020"
-    repo: "https://github.com/seal-hub/ACETON"
-    html_url: "https://dl.acm.org/doi/abs/10.1145/3468264.3468604"
+  - name: "A transfer-learning approach for first-year developmental infant brain segmentation using deep neural networks"
+    authors: "Yun Wang*, <u>Fateme Sadat Haghpanah*</u>, Natalie Aw, Andrew Laine, Jonathan Posner"
+    conference: "<strong>bioRxiv</strong>, May 2021"
+    pdf: "https://www.biorxiv.org/content/biorxiv/early/2020/05/25/2020.05.22.110619.full.pdf"
+    html_url: "https://www.biorxiv.org/content/10.1101/2020.05.22.110619v1.full"
+ 
 
 projects:
   - name: ACETON
