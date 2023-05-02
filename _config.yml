@@ -104,16 +104,6 @@ publication:
  
 
 projects:
-  - name: Chest-Xray-Analysis
-    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-    In my project, I developed a deep neural network architecture to automatically identify important chest diseases from X-ray images, which is critical for screening, diagnosis and managing life-threatening diseases. This innovative approach has the potential to aid medical professionals in recognizing different diseases and improve patient outcomes. The performance of the model was evaluated against previous works, demonstrating comparable results.
-    <li> Developed a deep neural network to automatically identify important chest diseases from X-ray images for screening, diagnosis, and management of life-threatening diseases. </li>
-    <li> Evaluated the model's performance against previous works, demonstrating comparable results and the potential to aid medical professionals in recognizing different diseases and improving patient outcomes. </li>
-    </ul>"
-    html_url: https://github.com/ftmhghpnh/chest-xray-analysis
-    source: github
-    repo: https://github.com/ftmhghpnh/chest-xray-analysis
-
   - name: Causality in Medical Imaging
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     <li> Explored the impact of causal analysis in medical imaging for Parkinson's disease using the PPMI dataset. </li>
@@ -121,6 +111,15 @@ projects:
     </ul>"
     html_url: https://github.com/ftmhghpnh/causality-in-PPMI-imaging-dataset
     source: github
+    
+  - name: Chest-Xray-Analysis
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+    <li> Developed a deep neural network to automatically identify important chest diseases from X-ray images for screening, diagnosis, and management of life-threatening diseases. </li>
+    <li> Evaluated the model's performance against previous works, demonstrating comparable results and the potential to aid medical professionals in recognizing different diseases and improving patient outcomes. </li>
+    </ul>"
+    html_url: https://github.com/ftmhghpnh/chest-xray-analysis
+    source: github
+    repo: https://github.com/ftmhghpnh/chest-xray-analysis
 
   - name: Shiny App Development
     description: FILL OUT
