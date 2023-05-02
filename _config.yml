@@ -93,7 +93,8 @@ publication:
     authors: "Yun Wang*, <u>Fateme Sadat Haghpanah*</u>, Xuzhe Zhang, Katie Santamaria, Gabriela Koch da Costa Aguiar Alves, Elizabeth Bruno, Natalie Aw, Alexis Maddocks, Cristiane S Duarte, Catherine Monk, Andrew Laine, Jonathan Posner, program collaborators for Environmental influences on Child Health Outcomes"
     conference: "<strong>Brain Informatics Journal</strong>, December 2022, Volume 9, Pages 1-12"
     html_url: "https://www.sciencedirect.com/science/article/abs/pii/S0730725X22001102?casa_token=hVc6IOb7YwEAAAAA:4cqAAdqRZ4nJfUfdy-_0Kwj-arsA3aOjFcXVNvJI9vPBcXQisDkA2yAsOEE5sE81_FP3Ni_4Qw"
-    pdf: ""
+    repo: "https://github.com/wangyuncolumbia/ID-Seg"
+#   # pdf: ""
     
   - name: "A transfer-learning approach for first-year developmental infant brain segmentation using deep neural networks"
     authors: "Yun Wang*, <u>Fateme Sadat Haghpanah*</u>, Natalie Aw, Andrew Laine, Jonathan Posner"
