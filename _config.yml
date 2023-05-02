@@ -136,8 +136,7 @@ projects:
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     <li> Conducted a study on the lyrics of music from different genres using NLP techniques, including text preprocessing, data cleaning, topic modeling, and word embedding. </li>
     <li> Demonstrated that lyrics from different genres can be semantically clustered based on their content. </li>
-    <li> Identified potential cross-genre appeal by identifying some bands and artists whose lyrics were more similar to other genres than their own.
-    </li>
+    <li> Identified potential cross-genre appeal by identifying some bands and artists whose lyrics were more similar to other genres than their own. </li>
     </ul>"
     html_url: https://github.com/ftmhghpnh/fall2019-proj2--sec2-grp3
     source: github
