@@ -116,7 +116,7 @@ projects:
     source: github
     repo: https://github.com/ftmhghpnh/chest-xray-analysis
 
-  - name: Shiny App Development 
+  - name: NYC house litigations analysis
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     Developed a Shiny App for data visualization to explore potential inquiries about the public dataset on housing litigation in NYC. 
     </ul>"
