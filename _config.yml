@@ -110,9 +110,7 @@ projects:
     
   - name: Chest-Xray-Analysis
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-    <li> Developed a deep neural network for automatic identification of chest diseases from X-ray images using machine learning. </li>
-    <li> Trained the model on a large dataset and used a convolutional neural network with a softmax classifier to make predictions. </li>
-    <li> Evaluated the model's performance using standard metrics, showing comparable results to previous works and potential for aiding medical professionals in disease recognition and improving patient outcomes. </li>
+    Developed a deep neural network for automatic identification of chest diseases from X-ray images using machine learning.
     </ul>"
     html_url: https://github.com/ftmhghpnh/chest-xray-analysis
     source: github
