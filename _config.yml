@@ -132,7 +132,7 @@ projects:
     
   - name: Can you recognize the emotion from an image of a face?
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
-    Developed a classification engine for facial emotion recognition using various feature extraction and selection methods, such as HOG, SIFT, PCA, and landmark detection. Training different classification algorithms, including LDA, SVC, RandomForest, MLP, KNN, AdaBoost, and CNN-based models.
+    Created a facial emotion recognition classifier using feature extraction and selection techniques like HOG, SIFT, PCA, and landmark detection. Trained different classification models, including LDA, SVC, RandomForest, MLP, KNN, AdaBoost, and CNN-based approaches.
     </ul>"
     html_url: https://github.com/ftmhghpnh/fall2019-proj3-sec2--group6
     source: github
