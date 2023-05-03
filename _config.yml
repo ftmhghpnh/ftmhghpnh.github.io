@@ -101,6 +101,13 @@ publication:
  
 
 projects:
+  - name: Neural Machine Translation (NMT)
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+    Implemented an encoder-decoder model with both single and multi-head attention mechanism to translate English to French using the Hansards dataset.
+    </ul>"
+    html_url: https://github.com/ftmhghpnh/Neural_Machine_Translation
+    source: github
+  
   - name: Causality in Medical Imaging
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     Investigated the impact of causality on medical imaging by utilizing supervised machine learning algorithms to detect MRI acquisition parameters using the PPMI dataset, aiming to assess the potential improvement in performance.
