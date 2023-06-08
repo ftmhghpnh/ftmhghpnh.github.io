@@ -48,7 +48,7 @@ work:
     company_url: "https://web.cs.toronto.edu/"
     role: "Graduate Research Assistant"
     start: "Jan 2021"
-    end: "May 2023 (expected)"
+    end: "May 2023"
     description: "<ul class='text-gray mb-2 ws-normal pl-3'>
     Affiliated with, <a href=\"https://vectorinstitute.ai\">Vector Institute for Artificial Intelligence</a>, <a href=\"https://www.uhn.ca/\">University Health Network</a>, and <a href=\"https://www.sickkids.ca/\">SickKids, the Hospital for Children</a>.
     <li> Designed and developed a novel classification algorithm to detect cerebral microbleeds (CMB) in preterm infants' MRI scans, achieving over 90% precision and recall. The neural network model is the first-ever developed one for infant brain scans. </li>
