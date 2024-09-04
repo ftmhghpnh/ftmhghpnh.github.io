@@ -16,9 +16,13 @@ defaults:
     values:
       layout: "post"
 
-bio: "I enjoy spending time in nature (for example star gazing, hiking, and kayaking), and constantly challenging myself to lift heavier weights with a barbell.!"
+bio: "I enjoy connecting with nature through hiking, stargazing, and mountain climbing. Always eager to challenge myself and push my limits, I'm currently focused on increasing the number of chin-ups I can do in a single set!"
 # acquiring new skills (currently playing piano), reading books, and discovering new music on Spotify!"
-about: "I am Fateme, (/fɑ:te'me/), a M.Sc. student at the <a href=\"https://web.cs.toronto.edu/\">University of Toronto</a> and <a href=\"https://vectorinstitute.ai\">Vector Institute for Artificial Intelligence</a>, working with <a href=\"https://brudno.uhndata.io/\">Prof. Michael Brudno</a>. My research interests lie in developing practical solutions for the adoption of AI in real-world applications. During my masters, I focused on utilizing machine learning techniques to tackle healthcare challenges and identifying barriers that prevent the deployment of these algorithms in real-world settings."
+about: "I am Fateme, (/fɑ:te'me/), with over 5 years of experience in machine learning, including expertise in computer vision and NLP, I have a strong track record
+of leadership and collaboration. My solid educational foundation from top institutions in computer science and biomedical
+engineering supports my ability to deliver innovative solutions. I excel in both independent and team settings, paying close
+attention to detail and proactively seeking impactful opportunities. I am committed to pushing boundaries and continuously
+expanding my skills."
 email: ftm.haghpanah@gmail.com
 
 
@@ -45,6 +49,16 @@ social_media:
   # youtube: your_username
 
 work:
+  - company: "Signal 1"
+    company_url: "https://web.cs.toronto.edu/"
+    role: "Machine Learning Scientist"
+    start: "Dec 2023"
+    end: "August 2024"
+    description: "<ul class='text-gray mb-2 ws-normal pl-3'>
+    <li> Led the end-to-end optimization and migration of the CHARTWatch legacy machine learning pipeline
+from Kubeflow to a microservice architecture. Conducted in-depth data analysis, resolved critical issues, and implemented code fixes to align deterioration model scores with the main Java repository. Optimized model update frequency from 6 hours to 15 minutes, reducing maintenance overhead and enhancing system reliability and monitoring. </li>
+    <li> Led an end-to-end machine learning-based Delirium Prediction feasibility study for a hospital client. Proactively learned about Delirium and researched its application to machine learning, despite no medical background. Designed and implemented a full ML pipeline to assess Delirium prediction feasibility using real-world hospital data. Evaluated model performance, explored explainability, and identified areas for optimization. Assessed the model's practical utility for early detection and its potential to reduce nursing staff workload in real-world hospital settings.</li>
+    </ul>"
   - company: "University of Toronto"
     company_url: "https://web.cs.toronto.edu/"
     role: "Graduate Research Assistant"
